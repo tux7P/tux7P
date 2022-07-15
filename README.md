@@ -1,4 +1,6 @@
-Hi 👋 
+<h1 align="center">Hi 👋, I'm Darwin</h1>
+<h3 align="center">A passionate Software Developer in Test</h3>
+
 My interests are 👀 Web3 | Automation | Javascript | Testing 
 
 <!---
