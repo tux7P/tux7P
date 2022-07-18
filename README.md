@@ -4,8 +4,8 @@
 ---
 **Interests:**
 
-🔭 My interests are 👀 Web3 | Automation | Javascript | Testing 
-👯 I’m looking to collaborate on Cypress, WebdriverIO, SuperTest, Playwright, Contract Test & GraphQL projects
+- 🔭 My interests are 👀 Web3 | Automation | Javascript | Testing 
+- 👯 I’m looking to collaborate on Cypress, WebdriverIO, SuperTest, Playwright, Contract Test & GraphQL projects
 
 ---
 **Languages and Tools:**
