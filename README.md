@@ -17,8 +17,8 @@
 **Tools:**
 <dl>
   <dt>Frontend</dt>
-  <dd> - ![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?&style=for-the-badge&logo=Cypress&logoColor=white) </dd>
-  <dd> - ![WebDriverIO](https://img.shields.io/badge/WebDriverIO-EA5906.svg?&style=for-the-badge&logo=WebdriverIO&logoColor=white) </dd>
+  <dd> ![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?&style=for-the-badge&logo=Cypress&logoColor=white) </dd>
+  <dd> ![WebDriverIO](https://img.shields.io/badge/WebDriverIO-EA5906.svg?&style=for-the-badge&logo=WebdriverIO&logoColor=white) </dd>
   <dt>Backend</dt>
   <dd>- Supertest</dd>
 </dl>
