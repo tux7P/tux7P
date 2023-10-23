@@ -14,6 +14,7 @@
 
 ---
 **Tools:**
+
 ![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?&style=for-the-badge&logo=Cypress&logoColor=white) ![WebDriverIO](https://img.shields.io/badge/WebDriverIO-EA5906.svg?&style=for-the-badge&logo=WebdriverIO&logoColor=white) Playwright ![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?&style=for-the-badge&logo=Postman&logoColor=white) ![GitHub-Actions](https://img.shields.io/badge/-GitHub%20Actions-%23181717?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 <!---
