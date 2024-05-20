@@ -4,7 +4,7 @@
 ---
 **Interests:**
 
-🔭 My interests are 👀 Automation | Javascript <br>
+🔭 My interests are Automation | Javascript | Typescript <br>
 👯 I’m looking to collaborate on Test Automation, NodeJs & React projects
 
 ---
