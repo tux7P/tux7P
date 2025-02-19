@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Darwin</h1>
-<h3 align="center">A passionate Software Developer in Test</h3>
+<div align="center">
+  <h1>Hi there, I'm Darwin 👋</h1>
+  <h3>Software Developer in Test | Automation Specialist</h3>
+</div>
 
----
-**Interests:**
+## 🚀 About Me
+I'm a passionate Software Developer in Test specializing in building robust automation frameworks. I love creating efficient, maintainable test solutions that help teams deliver high-quality software.
 
-🔭 My interests are Automation | Javascript | Typescript <br>
-👯 I’m looking to collaborate on Test Automation, NodeJs & React projects
+### 🎯 Current Focus
+- Building and maintaining end-to-end test automation frameworks
+- Exploring new testing tools and methodologies
 
----
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?&style=for-the-badge&logo=JavaScript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?&style=for-the-badge&logo=Typescript&logoColor=black)
