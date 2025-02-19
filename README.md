@@ -3,6 +3,7 @@
   <h3>Software Developer in Test | Automation Specialist</h3>
 </div>
 
+---
 ## 🚀 About Me
 I'm a passionate Software Developer in Test specializing in building robust automation frameworks. I love creating efficient, maintainable test solutions that help teams deliver high-quality software.
 
