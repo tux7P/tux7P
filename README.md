@@ -9,7 +9,8 @@ I'm a passionate Software Developer in Test specializing in building robust auto
 
 ### 🎯 Current Focus
 - Building and maintaining end-to-end test automation frameworks
-- Exploring new testing tools and methodologies
+- Creating portfolio projects
+- Exploring new test strategies, tools and methodologies
 
 **Languages**
 
